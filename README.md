@@ -1,2 +1,2 @@
 # Hydraulics
-Codes for the resolution of different piping systems
+Codes for the resolution of different piping systems using Python.
